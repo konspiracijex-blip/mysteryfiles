@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "title": "Latest Mystery",
+    "excerpt": "A brief two-line intro for the latest post...",
+    "image": "/images/latest.jpg"
+  },
+  {
+    "title": "Older Mystery 1",
+    "excerpt": "Intro text for older post 1...",
+    "image": "/images/older1.jpg"
+  },
+  {
+    "title": "Older Mystery 2",
+    "excerpt": "Intro text for older post 2...",
+    "image": "/images/older2.jpg"
+  },
+  {
+    "title": "Older Mystery 3",
+    "excerpt": "Intro text for older post 3...",
+    "image": "/images/older3.jpg"
+  }
+]
